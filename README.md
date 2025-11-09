@@ -268,7 +268,7 @@
             <div class="card-header bg-purple">About Me</div>
             <div class="card-content">
                 <p class="about-text">
-                    I am a dedicated Operations Executive specializing in Logistics and Supply Chain Management with expertise in first-mile operations (PAK India) and advanced Excel analytics. Currently driving operational excellence at Om Logistics Supply Chain Pvt. Ltd.
+                    I am a dedicated Operations Executive specializing in Logistics and Supply Chain Management with expertise in first-mile operations (PAN India) and advanced Excel analytics. Currently driving operational excellence at Om Logistics Supply Chain Pvt. Ltd.
                 </p>
                 <p class="about-text" style="margin-top: 15px;">
                     My focus is on data-driven decision making, team leadership, and process optimization using Power BI and comprehensive operational reporting.
@@ -284,7 +284,7 @@
                     <div class="company">Om Logistics Supply Chain Pvt. Ltd.</div>
                     <div class="duration">Jul 2024 - Present · 17 months</div>
                     <ul>
-                        <li>First-mile operation specialist for PAK India</li>
+                        <li>First-mile operation specialist for PAN India</li>
                         <li>Advanced Excel expert in data analysis</li>
                         <li>Power BI for operational intelligence</li>
                         <li>Process improvement & efficiency optimization</li>
